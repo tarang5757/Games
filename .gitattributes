@@ -1,0 +1,5 @@
+# Set the line endings for Python files to LF (Unix style)
+*.py text eol=lf
+
+# Set the line endings for other text files to LF
+* text eol=lf
